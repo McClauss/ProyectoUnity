@@ -3,7 +3,6 @@ using UnityEngine;
 public class Movimiento : MonoBehaviour
 {
     public float speed=2;
-    
     void Start()
     {
         
